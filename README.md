@@ -1,5 +1,5 @@
 # JD_Get_Cookie
-1. 下载[release](https://github.com/littleCareless/JD_Get_Cookie/releases/download/V1.0)版本
+1. 下载[release](https://github.com/littleCareless/JD_Get_Cookie/releases/tag/V1.0)版本
 2. 打开exe
 3. 手机短信验证码登录
 4. 登陆成功后回到命令行回车
